@@ -7,9 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 Marie Pense Center</copyright>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
     
 	<atom:link href="https://mariepense.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automation System</title>
+      <link>https://mariepense.github.io/categories/automation-system/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://mariepense.github.io/categories/automation-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://mariepense.github.io/categories/deep-learning/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://mariepense.github.io/categories/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eco System</title>
+      <link>https://mariepense.github.io/categories/eco-system/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://mariepense.github.io/categories/eco-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education System</title>
+      <link>https://mariepense.github.io/categories/education-system/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://mariepense.github.io/categories/education-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English Learning</title>
+      <link>https://mariepense.github.io/categories/english-learning/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://mariepense.github.io/categories/english-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathmatics Learning</title>
+      <link>https://mariepense.github.io/categories/mathmatics-learning/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://mariepense.github.io/categories/mathmatics-learning/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
